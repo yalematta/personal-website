@@ -17,3 +17,9 @@ a { color: white !important; text-decoration: none !important; }
 .link-gray-dark:hover { color: #ffcc00 !important; }
 
 .link-gray-dark { color: white !important; }
+
+.repo-language-color { filter: brightness(125%) !important; border-radius: 50%; display: inline-block; height: 12px; position: relative; top: 2px; width: 12px; }
+
+.emoji { width: 18px; height: auto; vertical-align: middle; }
+
+.article h1, .article h2, .article h3, .article h4, .article .highlight { margin-bottom: 16px; }

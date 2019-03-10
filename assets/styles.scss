@@ -44,3 +44,26 @@ a{
 .link-gray-dark{
   color: white !important;
 }
+
+.repo-language-color {
+    filter: brightness(125%) !important;
+    border-radius: 50%;
+    display: inline-block;
+    height: 12px;
+    position: relative;
+    top: 2px;
+    width: 12px;
+}
+
+.emoji {
+  width: 18px;
+  height: auto;
+  vertical-align: middle;
+}
+
+.article {
+	  h1, h2, h3, h4,
+	  .highlight {
+	    margin-bottom: 16px;
+	  }
+	}
