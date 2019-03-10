@@ -2,4 +2,18 @@
 @import url("https://fonts.googleapis.com/css?family=Rubik:400,500,700,900");
 body { font-family: 'Rubik', sans-serif; }
 
-.github-component { font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol; }
+.github-component { font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol; background-color: #23282C !important; color: white !important; }
+
+.link-gray:hover { color: #ffcc00 !important; fill: #ffcc00 !important; }
+
+.link-gray { color: white !important; fill: white !important; }
+
+.text-gray { color: white !important; }
+
+a:hover { color: #ffcc00 !important; text-decoration: none !important; }
+
+a { color: white !important; text-decoration: none !important; }
+
+.link-gray-dark:hover { color: #ffcc00 !important; }
+
+.link-gray-dark { color: white !important; }
