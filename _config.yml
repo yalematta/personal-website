@@ -22,6 +22,10 @@ social_media:
   twitter: yalematta
 
 topics:
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/a3520d60fbf9b0bdd0b7d563a1a3ed596acd8489/topics/android/android.png
+
   - name: Java
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
@@ -29,9 +33,5 @@ topics:
   - name: Kotlin
     web_url: https://github.com/topics/kotlin
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kotlin/kotlin.png
-
-  - name: R
-    web_url: https://github.com/topics/r
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/r/r.png
 
 theme: jekyll-theme-cayman
