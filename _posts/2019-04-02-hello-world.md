@@ -9,3 +9,6 @@ And it is going to get updated every day for the next 100 days.
 
 
 I hope you like it!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Why Kotlin <a href="https://twitter.com/hashtag/sketchnoting4all?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnoting4all</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/100DaysOfKotlin?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfKotlin</a> <a href="https://t.co/ZLlPhvItIS">pic.twitter.com/ZLlPhvItIS</a></p>&mdash; Layale Matta 👩🏻‍💻 (@yalematta) <a href="https://twitter.com/yalematta/status/1113564526128128000?ref_src=twsrc%5Etfw">April 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
