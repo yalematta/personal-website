@@ -12,6 +12,6 @@ I hope you like it!
 <table>
   <tr >
     <td><img src="https://drive.google.com/uc?export=view&id=1oDxSAloZfrRJ6nzjXgLrveHAa2eS3sse" width="250" /></td>
-    <td align="right"><img src="https://drive.google.com/uc?export=view&id=1oDxSAloZfrRJ6nzjXgLrveHAa2eS3sse" width="250" /></td>
+    <td align="right"><img src="https://drive.google.com/uc?export=view&id=14720MllrhkYnA210_BOr1oUonl0wlnLF" width="250"></td>
   </tr>
 </table>
