@@ -9,9 +9,6 @@ And it is going to get updated every day for the next 100 days.
 
 I hope you like it!
 
-<table>
-  <tr >
-    <td><img src="https://drive.google.com/uc?export=view&id=1oDxSAloZfrRJ6nzjXgLrveHAa2eS3sse" width="250" /></td>
-    <td align="right"><img src="https://drive.google.com/uc?export=view&id=14720MllrhkYnA210_BOr1oUonl0wlnLF" width="250"></td>
-  </tr>
-</table>
+<a class="twitter-moment" href="https://twitter.com/i/moments/1116783303590334465?ref_src=twsrc%5Etfw">#100DaysOfKotlin</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
