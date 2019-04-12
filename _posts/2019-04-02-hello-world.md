@@ -9,3 +9,4 @@ And it is going to get updated every day for the next 100 days.
 
 I hope you like it!
 
+You can find all my Sketchnotes on <a href="https://tagboard.com/100DaysOfKotlin/482723">#tagboard</a>
