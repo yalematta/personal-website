@@ -24,7 +24,7 @@ tiny-letter:
   name: Tiny Letter
   profile_url_prefix: https://tinyletter.com/
   share_url_prefix: https://tinyletter.com/
-  icon_svg: '<svg height="25" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225.000000 225.000000">
+  icon_svg: '<svg height="25" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250.000000 250.000000">
 <g fill="#959da5" stroke="none">
 <path d="M880 2041 c-117 -36 -188 -141 -177 -260 l5 -59 -89 -4 c-98 -5 -125
 -17 -166 -78 l-23 -33 0 -471 c0 -525 -1 -517 69 -563 32 -22 43 -23 231 -23
