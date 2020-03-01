@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - MoocSlidify
 
 social_media:
   linkedin: layalematta
