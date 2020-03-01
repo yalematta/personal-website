@@ -15,6 +15,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
 
 social_media:
   linkedin: layalematta
