@@ -21,12 +21,14 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 3
   exclude:
     archived: false
     forks: true
     projects:
      - MoocSlidify
+     - WebGL-Basis
+     - yalisme.github.io
 
 social_media:
   linkedin: layalematta
