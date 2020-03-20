@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 7
+  limit: 5
   exclude:
     archived: false
     forks: true
@@ -31,6 +31,7 @@ projects:
      - BakingProject
      - yalisme.github.io
      - Weather2.0
+     - Capstone
 
 social_media:
   linkedin: layalematta
