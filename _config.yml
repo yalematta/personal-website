@@ -28,6 +28,7 @@ projects:
     projects:
      - MoocSlidify
      - WebGL-Basis
+     - BakingProject
      - yalisme.github.io
 
 social_media:
